@@ -20,4 +20,3 @@ div=c/d
 print("The division is",div)
 
 
-
