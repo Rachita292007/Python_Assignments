@@ -18,6 +18,3 @@ print("The multiplication is",mul)
 # Division
 div=c/d
 print("The division is",div)
-
-
-
