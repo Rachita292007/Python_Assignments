@@ -1,3 +1,4 @@
+## Task 1
 a=input("Enter the First Number : ")
 b=input("Enter the Second Number : ")
 c=float(a)
@@ -19,4 +20,10 @@ print("The multiplication is",mul)
 div=c/d
 print("The division is",div)
 
+## Task 2
+
+a1= input('Enter your First Name : ')
+b1= input('Enter your Last Name :')
+
+print (f"Hello, {a1} {b1} Welcome to the python program.")
 
