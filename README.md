@@ -1,4 +1,4 @@
-##  Assignment 1 
+## Assignment 1 
 ##Task 1 
 To perform Basic Mathematical Operations
 ##O/P
@@ -14,4 +14,22 @@ To create a Personalized Greeting
 Enter your First Name : Rachita
 Enter your Last Name :Patil
 Hello, Rachita Patil Welcome to the python program.
+
+
+
+## Assignment 2 
+##Task 1 
+To check if a Number is Even or Odd
+##O/P
+Enter a number : 7
+7 is an odd number
+##Task 2 
+To print the sum of Integers from 1 to 50 Using a Loop
+##O/P
+The sum of integers from 1 to 50 is: 1275 
+
+
+
+
+
 
