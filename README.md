@@ -30,6 +30,22 @@ The sum of integers from 1 to 50 is: 1275
 
 
 
+## Assignment 3 
+##Task 1 
+To calculate Factorial Using a Function
+##O/P 
+Enter a number : 7
+The factorial of 7 is 5040 
+##Task 2 
+Using the Math Module for Calculations
+##O/P
+Enter a number : 25
+Square Root: 5.0
+Natural Log : 3.2188758248682006
+Sine : -0.13235175009777303
+
+
+
 
 
 
