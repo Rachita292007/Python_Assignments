@@ -46,6 +46,29 @@ Sine : -0.13235175009777303
 
 
 
+## Assignment 4 
+##Task 1 
+To read a File and Handle Errors 
+##O/P
+Reading file content:
+Line 1: This is a Sample text file.
+Line 2: It contains multiple pages.
+##Task 2 
+Write and Append Data to a File
+##O/P
+Enter text to write to the file: Python
+Data successfully written to Output.txt
+Enter additional text to append: Learning file handling in python
+Data successfully appended to Output.txt
+Final content of Output.txt:
+Python
+Learning file handling in python
+Thank you
+
+
+
+
+
 
 
 
